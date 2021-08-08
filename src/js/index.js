@@ -1,1 +1,2 @@
-import "../css/styles.css"
+import "../../src/css/output.css"
+import { Tooltip, Toast, Popover } from 'bootstrap';
