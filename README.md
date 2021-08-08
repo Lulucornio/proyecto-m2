@@ -10,8 +10,23 @@ Primer entrega (postwork sesión 08)
   
 # Desarrollo:
 
-Framework instalado: 
+Dependencias principales: 
+  * Webpack y Webpack Dev Server
+  * Babel
   * Bootstrap
 
-
 Loaders: 
+  * style-loader
+  * css-loader
+  * babel-loader
+  * html-loader
+  * sass-loader
+  * postcss-loader
+ 
+Plugins:
+  * html-webpack-plugin
+  
+Dependencias adicionales:
+  * @babel/core
+  * @babel/preset-env
+  * @popperjs/core
